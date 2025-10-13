@@ -4,6 +4,11 @@
 💡 Exploring AI for Health, Human Behavior & Digital Innovation  
 🧠 Thesis: Foundation Models for Smart-Home Human Activity Recognition  
 🌍 Passionate about Data for Impact — from healthcare to humanitarian and social domains  
+
+---
+
+### 🛠️ Skills
+Python | R | SQL | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Matplotlib | Git | Docker  
 <!--
 **Saba2013-hub/Saba2013-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
