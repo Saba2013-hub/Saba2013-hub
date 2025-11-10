@@ -19,7 +19,7 @@ Machine Learning | Deep Learning | Data Visualization | Statistical Modeling | D
 Python | R | SQL | Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy | Matplotlib | Seaborn  
 
 **Tools & Platforms:**  
-Tableau | Looker Studio | Git | Google Colab | Jupyter | KNIME | Docker  
+Tableau | Looker Studio|Power BI | Git | Google Colab | Jupyter | KNIME | Docker  
 
 ---
 
@@ -51,7 +51,7 @@ Tableau | Looker Studio | Git | Google Colab | Jupyter | KNIME | Docker
 
 #### 📊 Data Visualization – Global Burden of Non-Communicable Diseases  
 **Goal:** Build interactive dashboards on disease mortality across gender, geography, and time  
-**Tools:** Looker Studio, Tableau  
+**Tools:** Looker Studio, Tableau ,Power BI  
 **Output:** Choropleth maps, gender comparison, global progress indicators  
 
 ---
