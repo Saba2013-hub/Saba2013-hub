@@ -1,85 +1,122 @@
-# Hi 👋 I'm Saba Haile Asfha
+Saba Haile Asfha
 
-🎓 MSc Data Science student @ University of Milano-Bicocca  
-💡 Applying AI, Machine Learning & Data Visualization to health, social, and global development challenges  
-🧠 Current Erasmus Thesis @ Universidad Politécnica de Cartagena (UPCT, Spain):  
-**"Foundation Models for Smart-Home Human Activity Recognition"**  
-🌍 Passionate about data-driven innovation across healthcare, humanitarian, and digital transformation sectors  
+AI Researcher | Digital Health | Smart-Home Behavioural Modelling | Self-Supervised Learning | Explainable AI
 
----
+MSc Data Science — University of Milano-Bicocca (Italy)
+BSc Nursing — Clinical Background in Adult Care
+Erasmus Research — Universidad Politécnica de Cartagena (Spain)
 
-### 🧩 Academic Courses & Focus Areas
-**Core Competencies:**
-Machine Learning | Deep Learning | Data Visualization | Statistical Modeling | Decision Models | Data Management | Foundations of Computer Science | Juridical & Social Issues in Information Society | Probability & Statistics  
+I combine a clinical nursing background with advanced machine learning to design intelligent systems for healthcare.
+My work focuses on building scalable, interpretable AI models for early detection of cognitive and behavioural risk using longitudinal smart-home sensor data.
 
----
+🔬 Research Interests
 
-### 🛠️ Technical Skills
-**Languages & Libraries:**  
-Python | R | SQL | Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy | Matplotlib | Seaborn  
+AI for Healthcare & Digital Health Systems
 
-**Tools & Platforms:**  
-Tableau | Looker Studio|Power BI | Git | Google Colab | Jupyter | KNIME | Docker  
+Early Detection of Cognitive Decline
 
----
+Self-Supervised Learning for Health Data
 
-### 📂 Selected Projects
+Transformer Models for Longitudinal Behaviour Modelling
 
-#### 🧠 Human Activity Recognition (Deep Learning)
-**Title:** Foundation Models for Smart-Home Human Activity Recognition  
-**Tools:** PyTorch, Transformers, CASAS Datasets  
-**Focus:** Self-supervised Transformer-based models for activity recognition and cross-environment generalization  
-**Institution:** UPCT (Spain) — Erasmus Thesis Project  
+Cross-Environment Generalization in IoT Systems
 
----
+Explainable AI in Clinical Decision Support
 
-#### 🤖 Machine Learning – Remote Work Well-being Prediction  
-**Goal:** Predict employee satisfaction and mental well-being using workplace and behavioral data  
-**Tech Stack:** Python, Scikit-learn, Random Forest, KNIME  
-**Result:** 98.8% accuracy (AUC 0.93)  
-**Institution:** UniMiB – Machine Learning course project  
+Human-Centered & Responsible AI
 
----
+🏥 Clinical Background
 
-#### 🌐 Social Issues – ICTs in the Tigray Conflict  
-**Title:** The Role of the Network Society in the Tigray Conflict (2020)  
-**Focus:** Impact of social media and ICTs on misinformation and humanitarian awareness  
-**Method:** Qualitative content & social media analysis  
-**Institution:** UniMiB – Juridical & Social Issues in Information Society  
+Bachelor’s degree in Nursing with experience in adult patient care.
+Clinical exposure to:
 
----
+Infection prevention and control
 
-#### 📊 Data Visualization – Global Burden of Non-Communicable Diseases  
-**Goal:** Build interactive dashboards on disease mortality across gender, geography, and time  
-**Tools:** Looker Studio, Tableau ,Power BI  
-**Output:** Choropleth maps, gender comparison, global progress indicators  
+Chronic disease management
 
----
+Patient safety & clinical documentation
 
-#### 🌍 Data Science Lab – Italy’s Health Aid in Sub-Saharan Africa (2015–2023)  
-**Focus:** Correlation between health aid, HDI, and governance using PCA and regression models  
-**Tools:** Python, Looker Studio  
-**Output:** Multi-page dashboard and statistical analysis  
+Evidence-based practice
 
----
+This clinical foundation informs my research direction toward practical, safe, and interpretable AI systems for healthcare environments.
 
-#### 📈 Statistical Modeling – R-Based Analytical Toolkit  
-**Goal:** Build reusable R code templates for regression, correlation, ANOVA, and bootstrap methods  
-**Outcome:** Course-wide R Markdown cheat sheet and reproducible reports  
+🧠 MSc Thesis — Transformer-Based Self-Supervised Learning for Smart-Home Activity Recognition
 
----
+Institution: Universidad Politécnica de Cartagena (Erasmus Research)
+Datasets: CASAS (Milan, Aruba, Cairo, Tulum)
+Framework: PyTorch, Custom Transformer Architecture
 
-### 🧮 Additional Coursework Projects
-- **Decision Models:** Linear & Nonlinear Programming, Sensitivity Analysis, and Decision Trees  
-- **Foundations of Deep Learning:** CNNs, Autoencoders, and Representation Learning  
-- **Data Management:** Relational modeling, SQL operations, and database optimization  
+Core Contributions:
 
----
+Masked Token Modeling (MLM) pretraining across multiple smart-home datasets
 
-### 📫 Contact
-📧 s.asfha@campus.unimib.it  
-🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/saba-haile-asfha-11362533a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-📍 Milan, Italy  
+Cross-home generalization experiments (train on 3 homes, test on unseen home)
 
----
-⭐ *“Turning data into stories that matter — for science, society, and humanity.”*  
+Reduced-label fine-tuning (10%, 5%, 1%)
+
+Comparison against LSTM baseline and training-from-scratch Transformer
+
+Evaluation using F1-score, calibration analysis, robustness testing, and noise sensitivity
+
+This research investigates foundation-model approaches for ambient assisted living systems under limited supervision.
+
+🧪 Research Practices
+
+Structured experiment design with fixed random seeds
+
+Stratified data splitting
+
+Cross-environment validation
+
+TensorBoard experiment tracking
+
+Version-controlled research pipelines
+
+Reproducible preprocessing workflows
+
+📂 Research & Analytical Projects
+🤖 Behavioural Risk & Well-being Modelling
+
+Machine learning models predicting behavioural and satisfaction patterns.
+Evaluation via cross-validation and ROC-AUC analysis.
+
+🌍 Italy’s Health Aid & Development Outcomes (2015–2023)
+
+Statistical modelling of relationships between health aid, governance, and development indicators.
+Methods: PCA, regression modelling, dashboard analytics.
+
+📊 Global Burden of Non-Communicable Diseases
+
+Interactive dashboards analysing mortality trends across gender and geography.
+
+📈 Statistical Modelling Toolkit (R)
+
+Reusable R Markdown templates for regression, ANOVA, bootstrap methods, and model diagnostics.
+
+🛠 Technical Stack
+
+Programming:
+Python | R | SQL
+
+Machine Learning & AI:
+PyTorch | TensorFlow | Scikit-learn | Transformers
+
+Data & Visualization:
+Pandas | NumPy | Matplotlib | Seaborn | Power BI | Tableau | Looker Studio
+
+Tools & Infrastructure:
+Git | Docker | Jupyter | Google Colab | KNIME
+
+📝 Research in Preparation
+
+Early Warning Modelling of Behavioural Instability in Smart Homes
+
+Cross-Home Transfer Learning for IoT-Based Health Monitoring
+
+Explainable Risk Scoring for Longitudinal Smart-Home Data
+
+📫 Contact
+
+Email: s.asfha@campus.unimib.it
+
+Location: Milan, Italy
